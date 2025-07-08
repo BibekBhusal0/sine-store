@@ -162,7 +162,7 @@
     "readme": "https://raw.githubusercontent.com/allecsc/Altover/refs/heads/main/README.md"
   },
   "settings-shortcuts-search": {
-    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/settings-shortcuts-search",
+    "homepage": "BibekBhusal0/zen-custom-js/tree/main/settings-shortcuts-search",
     "image": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/settings-shortcuts-search/image.png",
     "name": "Search Keyboard shortcuts",
     "version": "1.0.0",
@@ -173,7 +173,7 @@
     ]
   },
   "search-engine-select": {
-    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/search-engine-select",
+    "homepage": "BibekBhusal0/zen-custom-js/tree/main/search-engine-select",
     "name": "Search Engine Select",
     "description": "Adds a floating UI to switch search engines on a search results page.",
     "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/search-engine-select/readme.md",
@@ -184,7 +184,7 @@
     "image": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/search-engine-select/image.png"
   },
   "floating-sidebar": {
-    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/floating-sidebar",
+    "homepage": "BibekBhusal0/zen-custom-js/tree/main/floating-sidebar",
     "name": "Floating Sidebar",
     "description": "Lightweight script to, make firefox Sidebar Floating also option to pin/unpin the sidebar.",
     "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/floating-sidebar/readme.md",
