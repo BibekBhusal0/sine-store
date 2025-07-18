@@ -6,6 +6,7 @@
 
 // userChrome.js / download_preview_mistral_pixtral_rename.uc.js - FINAL FIXED VERSION
 // AI-powered download preview and renaming with Mistral vision API support
+console.log("this is zen tidy downlods loading from custom marketplace")
 (function () {
   "use strict";
 
