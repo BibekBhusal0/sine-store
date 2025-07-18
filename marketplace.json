@@ -238,5 +238,15 @@
     "fork": [
       "zen"
     ]
+  },
+  "findbar-ai": {
+    "homepage": "https://github.com/BibekBhusal0/zen-custom-js/tree/main/findbar-ai",
+    "name": "Findbar AI",
+    "version": "1.0.0",
+    "description": "Adds a floating UI to switch search engines on a search results page.",
+    "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/findbar-ai/readme.md",
+    "fork": [
+      "zen"
+    ]
   }
 }
